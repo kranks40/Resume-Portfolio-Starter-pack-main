@@ -2,7 +2,7 @@
   "main": {
     "name": "Oketo Peters",
     "occupation": "Electrical Engineer, Software Developer and aspiring White Hat Hacker.",
-    "description": " I work full time as head of the electrical inspectorate department at the Ministry of infrastructure. In 2018 I enrolled in the Caribbean coding academy and have successfully completed the programming course. I am presently in the middle of an ethical Hacking course or White Hat Hacker course online.  ",
+    "description": " I work full time as head of the Electrical Inspectorate Department at the Ministry of Infrastructure. In 2018 I enrolled in the Caribbean Coding Academy and have successfully completed the programming course. I am presently in the middle of an ethical Hacking course or White Hat Hacker course online.  ",
     "image": "Profile/IMG_Oketo.jpg",
     "bio": "Hi there! I am Oketo Peters! I'm a Full Stack ReactJS Developer. That includes Web Development and Mobile App Development. Currently I'm working as an Electrical Engineer but my passion is coding and cybersecurity",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -12,8 +12,8 @@
       "street": "Beausejour",
       "city": "St. George"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://resumeop.netlify.app",
+    "resumedownload": "https://www.dropbox.com/s/850tfd1v027ijp4/Oketo.pdf?dl=0",
     "social": [
      
       {
