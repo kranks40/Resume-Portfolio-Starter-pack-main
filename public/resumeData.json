@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Oketo Peters",
+    "occupation": "Electrical Engineer, Software Developer and aspiring White Hat Hacker.",
+    "description": " I work full time as head of the electrical inspectorate department at the Ministry of infrastructure. In 2018 I enrolled in the Caribbean coding academy and have successfully completed the programming course. I am presently in the middle of an ethical Hacking course or White Hat Hacker course online.  ",
+    "image": "Profile/IMG_Oketo.jpg",
+    "bio": "Hi there! I am Oketo Peters! I'm a Full Stack ReactJS Developer. That includes Web Development and Mobile App Development. Currently I'm working as an Electrical Engineer but my passion is coding and cybersecurity",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "elec_eng2020@hotmail.com",
+    "phone": "(1-473-405-4337)",
+    "address": {
+      "street": "Beausejour",
+      "city": "St. George"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/oketo.peters/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://gd.linkedin.com/in/oketo/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kranks33/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kranks40",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Superior Institute of Mining-Metallurgic of Moa Cuba",
+        "degree": "Bachelors in Electrical Engineering",
+        "graduated": "July 2007",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Grenada Broadcasting Network",
+        "title": "Assistant to the chief Engineer",
+        "years": "July 2000 - August 2006",
+        "description": "I was camera person, master control operator and assisted the chief Engineer."
+      },
+      {
+        "company": "Government of Grenada",
+        "title": "Electrical Engineer",
+        "years": "October 2017 - Present",
+        "description": "I was camera person, master control operator and assisted the chief Engineer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "e-Commerce (React JS)",
+        "category": "",
+        "image": "e-commerce.jpg",
+        "url": "http://my-surebuy-app.herokuapp.com/"
+      },
+      {
+        "title": "Covid-19 (React JS)",
+        "category": "",
+        "image": "Covid-19.jpg",
+        "url": "https://covid19-tracker-17ba1.web.app/"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "Airbnb.jpg",
+        "url": "https://airbnb-e6c10.web.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook-clone.png",
+        "url": "https://fb-clone-fabc5.web.app/"
+      },
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "",
+        "image": "Spotify.jpg",
+        "url": "https://spotify-e24e4.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+        "user": "Mark Caine"
+      },
+      {
+        "text": "Would you like me to give you a formula for success? It’s quite simple, really: Double your rate of failure. You are thinking of failure as the enemy of success. But it isn’t at all. You can be discouraged by failure or you can learn from it, so go ahead and make mistakes. Make all you can. Because remember that’s where you will find success.",
+        "user": "Thomas J. Watson"
+      },
+      {
+        "text": "What ever Oketo puts his mind to, he usually achieves it. I was very skeptical about him getting into coding as he calls it. I researched it and found out that one can make a good living from coding. I noticed he dedicates allot of time and effort in devolping this new skill. I am very sure that he would succeed at his new found love.",
+        "user": "Math Teacher"
+      }
+    ]
+  }
+}
