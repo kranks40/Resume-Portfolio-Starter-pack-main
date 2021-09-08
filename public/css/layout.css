@@ -255,7 +255,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 5px solid #11ABB0;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -277,8 +277,8 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 9px;
 }
 #resume .info span {
-   margin-right: 5px;
-   margin-left: 5px;
+   /* margin-left: 10px; */
+   /* margin-right: 10px; */
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;

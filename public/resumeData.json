@@ -4,7 +4,7 @@
     "occupation": "Electrical Engineer, Software Developer and aspiring White Hat Hacker.",
     "description": " I work full time as head of the Electrical Inspectorate Department at the Ministry of Infrastructure. In 2018 I enrolled in the Caribbean Coding Academy and have successfully completed the programming course. I am presently in the middle of an ethical Hacking course or White Hat Hacker course online.  ",
     "image": "Profile/IMG_Oketo.jpg",
-    "bio": "Hi there! I am Oketo Peters! I'm a Full Stack ReactJS Developer. That includes Web Development and Mobile App Development. Currently I'm working as an Electrical Engineer but my passion is coding and cybersecurity",
+    "bio": "Hi there! I am Oketo Peters! I'm a Full Stack ReactJS Developer. That includes Web Development and Mobile App Development. Currently I am employed as an Electrical Engineer within the Inspectorate Department. My passion is coding and cybersecurity.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "elec_eng2020@hotmail.com",
     "phone": "(1-473-405-4337)",
@@ -59,8 +59,43 @@
         "company": "Government of Grenada",
         "title": "Electrical Engineer",
         "years": "October 2017 - Present",
-        "description": "I was camera person, master control operator and assisted the chief Engineer."
+        "description": "Supervise the assignment of the inspection requests for residential, commercial, and industrial electrical construction and installation."
+      },
+      {
+        
+        "description": "Supervise the checking of electrical plans and specifications for new construction, alteration and repair of building for compliance with applicable codes and city ordinance."
+      },
+      {
+        "description": "Supervise field inspection of residential, commercial and industrial electrical installations and alternations for conformance with applicable building codes."
+      },
+      {
+        "description": "Participate in the more difficult field inspection and assist subordinates in resolving the complex electrical inspections problem."
+      },
+      {
+        "description": "Inspect and test new revised electrical appliances and equipment for conformance with local and national standards."
+      },
+      {
+        "description": "Interpret electrical codes and zoning ordinance for subordinates and the general public."
+      },
+      {
+        "description": "Enforce state regulations as they relate to building construction and use."
+      },
+      {
+        "description": "Assist the city attorney’s office in prosecution of electrical codes violators."
+      },
+      {
+        "description": "Attend meetings to advice on special problems in this discipline."
+      },
+      {
+        "description": "Provide bills of Quantity."
+      },
+      {
+        "description": "Conduct regular site visits and inspections to ensure compliance with drawings and specifications."
+      },
+      {
+        "description": "Ensure that contract documents and drawings are accurately prepared for tendering purposes."
       }
+  
     ],
     "skills": [
       {
